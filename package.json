@@ -1,0 +1,23 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "Module 10 Challenge - SVG Logo Maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surpritam/svg-logo-maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surpritam/svg-logo-maker/issues"
+  },
+  "homepage": "https://github.com/surpritam/svg-logo-maker#readme",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  }
+}
