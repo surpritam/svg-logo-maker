@@ -30,4 +30,7 @@ inquirer
             name: 'shapeColor',
             message: 'Enter the shape color (color keyword or hexadecimal number):',
         },
-    ]);
+    ])
+    .then((data) => {
+        const {text, textColor, shape, shapeColor} = data;
+    })
