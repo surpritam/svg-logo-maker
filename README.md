@@ -21,10 +21,10 @@ This application allows users to generate an SVG logo by specifying text, text c
 
 1. Clone the repository:
 
-   ```sh
-   git clone https://github.com/surpritam/svg-logo-maker.git
-   cd svg-logo-maker
-    ```
+ ```sh
+ git clone https://github.com/surpritam/svg-logo-maker.git
+ cd svg-logo-maker
+  ```
 2. Install the dependencies:
 ```sh
 npm install
@@ -54,8 +54,7 @@ npm test
 You can watch an example video demonstrating the usage of the SVG Logo Maker application [here](https://drive.google.com/file/d/1tFgeZvtYxLYbOdItLbVR1VYOMo-FWocn/view?usp=drive_link).
 
 ## Project structure
-
-.
+```
 ├── examples/           // Example SVG file(s) created with the app
 ├── lib/                // Folder for classes or functions
 │   ├── shapes.js       // Exports `Triangle`, `Circle`, and `Square` classes
@@ -66,3 +65,4 @@ You can watch an example video demonstrating the usage of the SVG Logo Maker app
 ├── generateLogo.js     // Runs the application using imports from lib/
 ├── package.json
 └── README.md           // App description, link to video, setup and usage instructions
+```
