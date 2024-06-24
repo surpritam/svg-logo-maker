@@ -51,6 +51,6 @@ inquirer
         shapeElement.setColor(shapeColor);
         const svgContent = new Svg(shapeElement.render(),textColor, text);
 
-        fs.writeFileSync('logo.svg', svgContent.trim());
+        fs.writeFileSync('logo.svg', svgContent.render().trim());
         console.log('Generated logo.svg');
     });
