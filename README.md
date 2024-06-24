@@ -51,7 +51,7 @@ npm test
 ```
 
 ## Demo
-You can watch an example video demonstrating the usage of the SVG Logo Maker application here.
+You can watch an example video demonstrating the usage of the SVG Logo Maker application [here](https://drive.google.com/file/d/1tFgeZvtYxLYbOdItLbVR1VYOMo-FWocn/view?usp=drive_link).
 
 ## Project structure
 
